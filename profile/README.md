@@ -23,31 +23,27 @@
 
 ### Documentation
 
-- **API Documentation**: [https://docs.yourproject.com/api](https://docs.yourproject.com/api)
-- **Developer Guide**: [https://docs.yourproject.com/developer-guide](https://docs.yourproject.com/developer-guide)
-- **User Guide**: [https://docs.yourproject.com/user-guide](https://docs.yourproject.com/user-guide)
+- **API Documentation**:
+- **Developer Guide**:
+- **User Guide**: 
 
 ### Design Assets
 
-- **Figma Designs**: [https://www.figma.com/file/yourproject-designs](https://www.figma.com/file/yourproject-designs)
+- **Figma Designs**: [https://www.figma.com/design/zsau0yd41U7kJIfoZboosC/SeeUrCargo?node-id=40%3A139&t=xhWusi6R1wqwv0o1-1](https://www.figma.com/design/zsau0yd41U7kJIfoZboosC/SeeUrCargo?node-id=40%3A139&t=xhWusi6R1wqwv0o1-1)
 
 ## Development URLs
 
-- **Development Environment**: [https://dev.yourproject.com](https://dev.yourproject.com)
-- **Staging Environment**: [https://staging.yourproject.com](https://staging.yourproject.com)
-- **Production Environment**: [https://www.yourproject.com](https://www.yourproject.com)
+- **Development Environment**: 
+- **Staging Environment**: 
+- **Production Environment**: 
 
 ### Microservices
 
-- **User Service (Dev)**: [https://dev-userservice.yourproject.com](https://dev-userservice.yourproject.com)
-- **Product Service (Dev)**: [https://dev-productservice.yourproject.com](https://dev-productservice.yourproject.com)
-- **Order Service (Dev)**: [https://dev-orderservice.yourproject.com](https://dev-orderservice.yourproject.com)
+- **MapTile Service (Dev)**: [https://map.tiles.seeurcargo.com](https://map.tiles.seeurcargo.com)
 
 ## Analytics URLs
 
-- **Google Analytics**: [https://analytics.google.com/analytics/web/?authuser=0#/report-home/a12345678w98765432p12345678](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a12345678w98765432p12345678)
-- **Mixpanel**: [https://mixpanel.com/project/12345678/view](https://mixpanel.com/project/12345678/view)
-- **Hotjar**: [https://insights.hotjar.com/sites/12345678/dashboard](https://insights.hotjar.com/sites/12345678/dashboard)
+[...]
 
 ## Used Developer Tools
 
@@ -75,17 +71,18 @@
 ### Monitoring and Logging
 
 - **BetterStack**: [https://betterstack.com/](https://betterstack.com/)
-- **ELK Stack**: [https://app.slack.com/client/T074LD82Q8Z/C0747KXQUM9](https://app.slack.com/client/T074LD82Q8Z/C0747KXQUM9)
+- **ELK Stack**: [https://seeurcargoworkspace.slack.com](https://seeurcargoworkspace.slack.com)
 
 ### Project Management
 
-- **Slack**: [https://app.slack.com/client/T074LD82Q8Z/C073T6N3SCX](https://app.slack.com/client/T074LD82Q8Z/C073T6N3SCX)
+- **Slack**: [https://seeurcargoworkspace.slack.com](https://seeurcargoworkspace.slack.com)
 - **Notion**: [https://www.notion.so/1dcfb9f83a26438788eee335dea6413b](https://www.notion.so/1dcfb9f83a26438788eee335dea6413b)
 
 ### Communication
 
 - **Slack**: [https://slack.com/](https://slack.com/)
 - **Telegram:**
+
 ### Testing
 
 - **Postman**: [https://www.postman.com/](https://www.postman.com/)
