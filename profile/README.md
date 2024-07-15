@@ -71,12 +71,12 @@
 ### Monitoring and Logging
 
 - **BetterStack**: [https://betterstack.com/](https://betterstack.com/)
-- **ELK Stack**: [https://seeurcargoworkspace.slack.com](https://seeurcargoworkspace.slack.com)
+- **ELK Stack**: [https://slack.com](https://slack.com)
 
 ### Project Management
 
-- **Slack**: [https://seeurcargoworkspace.slack.com](https://seeurcargoworkspace.slack.com)
-- **Notion**: [https://www.notion.so/1dcfb9f83a26438788eee335dea6413b](https://www.notion.so/1dcfb9f83a26438788eee335dea6413b)
+- **Slack**: [https://slack.com](https://slack.com)
+- **Notion**: [https://www.notion.so](https://www.notion.so)
 
 ### Communication
 
